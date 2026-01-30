@@ -78,6 +78,6 @@ AdventureWorks-Sales-Dashboard/
 ---
 
 ## 🙌 Author
-**Abbasali Samlayawala**  
-📍 Data Analyst | Business Intelligence Enthusiast  
+****Abbasali Samlayawala****  
+📍 Data Analyst | Excel · SQL · Python · Power BI
 GitHub: https://github.com/abbasali-insights
